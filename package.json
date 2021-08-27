@@ -1,0 +1,21 @@
+{
+    "name": "cubos-academy-theme",
+    "displayName": "Cubos-Academy-Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cubos Academy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cubos Academy Theme-color-theme.json"
+            }
+        ]
+    }
+}
