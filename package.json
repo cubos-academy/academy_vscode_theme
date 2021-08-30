@@ -22,5 +22,8 @@
                 "path": "./themes/Cubos Academy Theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.96.2"
     }
 }
