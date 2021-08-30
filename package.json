@@ -1,5 +1,5 @@
 {
-    "name": "cubos-academy-theme",
+    "name": "cubos-academy",
     "displayName": "Cubos-Academy-Theme",
     "description": "",
     "version": "0.0.1",
@@ -10,12 +10,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Cubos Academy Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cubos Academy Theme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Cubos Academy Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Cubos Academy Theme-color-theme.json"
+        }]
     }
 }
