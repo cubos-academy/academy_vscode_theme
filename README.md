@@ -1,6 +1,6 @@
 
 # Cubos Academy Theme
-<div align="center">
+<div>
 
   <img src="./images/icon-small.gif" alt="Omni Logo" width="100">
   <br>
