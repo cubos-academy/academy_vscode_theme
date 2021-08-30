@@ -2,4 +2,4 @@
 
 ### A Dark Theme for Visual Studio Code 
 
-![](../cubos-academy-theme/images/example.png)
+![](./images/example.png)
