@@ -3,7 +3,6 @@
     "displayName": "Cubos-Academy-Theme",
     "publisher": "CubosAcademy",
     "repository": "https://github.com/cubos-academy/academy_vscode_theme.git",
-    "description": "",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
@@ -11,9 +10,6 @@
     "scripts": {
         "deploy": "vsce publish --yarn"
     },
-    "categories": [
-        "Themes"
-    ],
     "contributes": {
         "themes": [
             {
@@ -25,5 +21,14 @@
     },
     "dependencies": {
         "vsce": "^1.96.2"
+    },
+    "description": "Cubos Academy Dark Theme",
+    "categories": [
+        "Themes"
+    ],
+    "icon": "./images/icon.png",
+    "galleryBanner": {
+        "color": "#e5007b",
+        "theme": "dark"
     }
 }
