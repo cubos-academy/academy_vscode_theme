@@ -326,7 +326,7 @@
             "name": "Variable",
             "scope": "variable",
             "settings": {
-                "fontStyle": ""
+                "foreground": "#ffffff"
             }
         },
         {

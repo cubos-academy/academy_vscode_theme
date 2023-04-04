@@ -2,7 +2,13 @@
     "name": "cubos-academy",
     "displayName": "Cubos-Academy-Theme",
     "publisher": "CubosAcademy",
-    "repository": "https://github.com/cubos-academy/academy_vscode_theme.git",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cubos-academy/academy_vscode_theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cubos-academy/academy_vscode_theme/issues"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
@@ -35,6 +41,7 @@
         "cubos",
         "academy",
         "theme",
-        "color-theme"
+        "color-theme",
+        "dark"
     ]
 }
