@@ -7,9 +7,7 @@
 <br>
 
 <div align="center">
-A dark theme for VS Code inspired by <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, a technology and programming education institution known for its practical and modern approach, this theme brings a unique aesthetic that is sure to please developers of all skill levels.
-
-<br>
+A dark theme for VS Code inspired by <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, a technology and programming education institution known for its practical and modern approach, this theme brings a unique aesthetic that is sure to please developers of all skill levels.<br><br>
 <!-- Preview in vscode.dev -->
 <a href="https://vscode.dev/theme/CubosAcademy.cubos-academy">
     <img alt="preview in vscode.dev" src="https://img.shields.io/badge/preview%20in-vscode.dev-1C1E26?style=for-the-badge&labelColor=1C1E26&color=660a3b">
@@ -97,7 +95,7 @@ A dark theme for VS Code inspired by <a href="https://cubos.academy/" target="_b
         <a href="https://github.com/jonathan-lopes">Larissa Dantas</a>
     </td>
     <td>
-        <a href="https://github.com/jonathan-lopes">Daniel de Andrade Lopes</a>
+        <a href="https://github.com/jonathan-lopes">Daniel Lopes</a>
     </td>
     <td>
         <a href="https://github.com/jonathan-lopes">Jonathan Lopes</a>
