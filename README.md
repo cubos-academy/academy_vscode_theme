@@ -89,13 +89,13 @@ A dark theme for VS Code inspired by <a href="https://cubos.academy/" target="_b
 
   <tbody>
     <td>
-        <a href="https://github.com/jonathan-lopes">Victor Magalhães</a>
+        <a href="https://github.com/vhfmag">Victor Magalhães</a>
     </td>
     <td>
-        <a href="https://github.com/jonathan-lopes">Larissa Dantas</a>
+        <a href="https://github.com/RikoKami">Larissa Dantas</a>
     </td>
     <td>
-        <a href="https://github.com/jonathan-lopes">Daniel Lopes</a>
+        <a href="https://github.com/danieldeandradelopes">Daniel Lopes</a>
     </td>
     <td>
         <a href="https://github.com/jonathan-lopes">Jonathan Lopes</a>
